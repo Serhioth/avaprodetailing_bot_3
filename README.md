@@ -4,7 +4,6 @@
 - Дмитрий Беликов - [monter220](https://github.com/monter220)
 - Сергей Иванов - [isv160179](https://github.com/isv160179)
 - Сергей Филатов - [Serhioth](https://github.com/Serhioth)
-- Сергей Колтыгин - [cmipro](https://github.com/cmipro)
 - Александр Лаврушенков - [lavralex](https://github.com/lavralex)
 
 ## 2. О проекте
